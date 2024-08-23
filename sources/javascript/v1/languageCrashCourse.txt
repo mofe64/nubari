@@ -19,6 +19,7 @@ code_sample_1.2
 
 Also, you can do both these operations on the same line:
 
+
 js
 Copy to Clipboard
 let myVariable = "Bob";

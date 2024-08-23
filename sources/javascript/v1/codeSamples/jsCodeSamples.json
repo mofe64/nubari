@@ -5,6 +5,7 @@
     },
     "1.2": {
         "snippet": "myVariable = \"Bob\";",
+        
         "language": "JS"
     }
 }
