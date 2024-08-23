@@ -1,0 +1,10 @@
+{
+    "1.1": {
+        "snippet": "let myVariable;",
+        "language": "JS"
+    },
+    "1.2": {
+        "snippet": "myVariable = \"Bob\";",
+        "language": "JS"
+    }
+}
